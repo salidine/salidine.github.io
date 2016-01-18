@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /bookswapr/
+Sitemap: http://www.geexellence.com/sitemap.xml
